@@ -2,10 +2,11 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to MgBank accounts related QA APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    name: "Luka doncic - QA Lead"
+    email: "luka77@mgbank.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
+    - (031) 512-9800
